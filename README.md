@@ -1,2 +1,2 @@
 # mlOps-demo
-Continuous ML integration and deployment using dvc
+Data versioning using DVC
