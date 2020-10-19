@@ -1,6 +1,6 @@
 # mlOps-demo
 Data versioning using DVC
-  - git is initiated using **git init**
+  - git is initiated using ######git init
   - dvc tracking is initiated using **dvc init**
   - the necessary codes are added (get_data.py, analyze.py)
   - get_data creates a csv dataset file
