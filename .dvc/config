@@ -1,0 +1,4 @@
+[core]
+    remote = dataorigin
+['remote "dataorigin"']
+    url = gdrive://1X2zy2mB1K4Sfzfi-Z67gOzAMQoBzVSZO
